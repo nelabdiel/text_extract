@@ -1,4 +1,4 @@
-### **📄 Extract Service - README**  
+### **Extract Service - README**  
 
 #### **Overview**  
 The `extract_service` is a Flask-based API that extracts text, images, OCR content, and tables from **PDF** and **DOCX** files. It processes documents **entirely in-memory** and returns structured JSON data. It takes on average 0.07sec/page. 
